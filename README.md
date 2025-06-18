@@ -37,7 +37,7 @@ ml_flask_app/
 ## 🛠️ Setup Instructions
 
 1. Clone the repo:
-   git clone https://github.com/YOUR-USERNAME/ml-flask-iris-classifier.git
+   git clone [https://github.com/YOUR-USERNAME/ml-flask-iris-classifier.git](https://github.com/THANUAA/ml-flask-iris-classifier.git)
 cd ml-flask-iris-classifier
 
 2. Install dependencies:
